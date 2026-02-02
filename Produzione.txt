@@ -1,11 +1,18 @@
 PRODUZIONE
 Assemblaggio di Memorie DDR5 montando Schede e Chip di Memoria da fornitori aziendali.
 
+
 RISULTATO SPERATO
 DDR5 32GB CL28 (PC5-5600 UDIMM 1Rx8)
-Anche se sarebbe meglio: PC5-5600 UDIMM 2Rx8
 
+
+PRODOTTO PIU' VICINO A CIO' CHE VOGLIAMO CREARE
 https://www.igorslab.de/en/second-generation-ddr5-ic-sk-hynix-16-gbit-a-die-2x-16-gb-modules-review-with-overclocking-and-gaming-benchmarks/
+
+
+SCHEDA TESTER (Per verificare che il prodotto funzioni correttamente)
+https://amzn.eu/d/6l8LlUm
+
 
 COMPONENTI
 -Schede DDR5 senza Chip di Memoria
